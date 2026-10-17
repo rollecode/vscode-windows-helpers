@@ -41,7 +41,6 @@
   "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
   "editor.autoIndent": "full",
   "editor.tabCompletion": "on",
-  "codestats.apikey": "SFMyNTY.Y205c2JHVT0jI01UUXdNak09.9SZ-WknsNiEXXeL63eW2m9h6dAG4eMivTVSY-VA4abE",
   "codestats.username": "rolle",
   "css.validate": false,
   "less.validate": false,
